@@ -18,4 +18,4 @@ while the_guess != the_number:
     elif the_guess > the_number:
         print(f"{the_guess} kr! You think I'm that rich?! Try again!")
     else:
-        print("You got it! Now give me your bank account details")
+        print("You got it! Now give me your bank account details!")
